@@ -2,7 +2,7 @@
 
 Welcome to the **Basic Responsive Website** project! 🚀 This is a clean, modern, and mobile-friendly website template built using **HTML5**, **CSS3**, and a touch of **JavaScript**. It's designed for personal or small business use and includes sections such as Home, About, Services, and Contact. 💼
 
-![Hero Screenshot](https://via.placeholder.com/1920x800)
+![MY Web](https://github.com/user-attachments/assets/5402adf9-2dbd-4753-a389-583fce50790f)
 
 ---
 
@@ -50,10 +50,10 @@ A user-friendly contact form with fields for name, email, and message. Upon subm
 
 ## 🖼️ Screenshots
 
-![Navigation Bar](https://via.placeholder.com/1200x200)  
+![Navigation Bar](https://github.com/user-attachments/assets/99623941-1bcd-41f4-a9cb-e148eec1499f)
 *Top navigation bar with logo and menu*
 
-![Services Section](https://via.placeholder.com/1200x400)  
+![Services Section](https://github.com/user-attachments/assets/651c4613-935b-4bff-93fd-f46021fc10da)
 *Clean and structured services layout*
 
 ---
@@ -81,7 +81,7 @@ The website is optimized for all devices with responsive breakpoints handled usi
 3. Customize the content and styles as needed  
 
 ```bash
-git clone https://github.com/your-username/Basic-Responsive-Website.git
+git clone https://github.com/Owais41111/Basic-Responsive-Website
 cd Basic-Responsive-Website
 open index.html
 ```
@@ -93,7 +93,7 @@ open index.html
 Have questions or feedback? Feel free to reach out via the contact form on the site or connect with me directly:
 
 **Created by:** Ejaz Ahmed  
-📧 Email: [your-email@example.com]  
+📧 Email: [ejaza2145@gmail.com]  
 🌐 Portfolio: *Coming soon*
 
 ---
